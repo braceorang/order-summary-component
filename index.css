@@ -1,7 +1,7 @@
 body{
     font-family: 'Red Hat Display', sans-serif;
     background-color: hsl(225, 100%, 94%);
-  
+    
 }
 
 p{
@@ -12,7 +12,7 @@ p{
     font-size: 11px;
     text-align: center;
     color: hsl(228, 45%, 44%);
-    transform: translate(90px, -300px);
+    transform: translate(0px, -250px);
  
 
     
@@ -24,17 +24,10 @@ p{
 
 .box{
     text-align: center;
-    margin-left: 40%;
-    margin-top: 7%;
     border-radius: 15px;
-    transform: translate(30px, -350px);
-
-   
-    
-   
-}
-
-.bg-img-main{
+    width: 25%;
+    transform: translate(550px, -300px);
+  
 }
 
 /* header-section */
