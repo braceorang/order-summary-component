@@ -12,8 +12,9 @@ p{
     font-size: 11px;
     text-align: center;
     color: hsl(228, 45%, 44%);
-    margin-top: 20%;
-    margin-left: 7%;
+    transform: translate(90px, -300px);
+ 
+
     
 }
 
@@ -25,17 +26,17 @@ p{
     text-align: center;
     margin-left: 40%;
     margin-top: 7%;
-    margin-bottom: 10%;
     border-radius: 15px;
-    position: absolute;
-    transform: translate(0px, -450px);
+    transform: translate(30px, -350px);
+
+   
     
    
 }
 
 .bg-img-main{
-    position: relative;
 }
+
 /* header-section */
 
 
@@ -66,6 +67,7 @@ p{
    background-color: hsl(225, 100%, 98%);
    border-radius: 15px;
    padding: 2%;
+   
 
   
 }
@@ -155,7 +157,6 @@ p{
     margin-top: 3%;
     padding: 3%;
     border-radius: 10px;
-    font-family: 'Red Hat Display', sans-serif;
     font-size: 12px;
     font-weight: 700;
 
