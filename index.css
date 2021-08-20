@@ -1,19 +1,20 @@
 body{
     font-family: 'Red Hat Display', sans-serif;
-    text-align: center;
+    background-color: hsl(225, 100%, 94%);
+  
 }
 
 p{
-    font-size: 1rem;
-    color:hsl(224, 23%, 55%)
+    color:hsl(224, 20%, 67%);
 }
 
 .attribution{
     font-size: 11px;
     text-align: center;
     color: hsl(228, 45%, 44%);
-    margin-top: 4%;
+    margin-top: 20%;
     margin-left: 7%;
+    
 }
 
 .box-over{
@@ -24,11 +25,17 @@ p{
     text-align: center;
     margin-left: 40%;
     margin-top: 7%;
+    margin-bottom: 10%;
     border-radius: 15px;
+    position: absolute;
+    transform: translate(0px, -450px);
     
    
 }
 
+.bg-img-main{
+    position: relative;
+}
 /* header-section */
 
 
