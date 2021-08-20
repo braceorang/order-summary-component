@@ -1,0 +1,162 @@
+body{
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: center;
+}
+
+p{
+    font-size: 1rem;
+    color:hsl(224, 23%, 55%)
+}
+
+.attribution{
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+    margin-top: 4%;
+    margin-left: 7%;
+}
+
+.box-over{
+    padding: 7%;
+}
+
+.box{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 7%;
+    border-radius: 15px;
+    
+   
+}
+
+/* header-section */
+
+
+.text-header{
+    font-size: 22px;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
+
+
+.box-header{
+    padding: 0 7%;
+  
+}
+
+.box-img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding-bottom: 3%;
+}
+
+
+
+
+/* body-section */
+
+.bg{
+   background-color: hsl(225, 100%, 98%);
+   border-radius: 15px;
+   padding: 2%;
+
+  
+}
+.music-img{
+    width: 110%;
+    margin-top: 25%;
+    padding-top: 10px;
+    
+}
+
+.text-Annual{
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 45px;
+    margin-top: 5px;
+}
+
+.text-year{
+    font-size:14px;
+    margin-right: 45px;
+}
+
+
+.text-change{
+    text-decoration-line: underline;
+    color: hsl(245, 75%, 52%);
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 25px;
+    
+}
+
+.text-change:hover{
+    color: hsla(245, 75%, 52%, 0.637);
+    text-decoration-line: none;
+    font-weight: 900;
+}
+
+.box-body{
+    padding-top: 0;
+}
+
+
+.box-left{
+    padding-right: 0;
+    
+}
+
+
+
+.box-center{
+   padding: 16px 0px 0px 0px ;
+   line-height: 1;
+
+}
+
+.box-right{
+    margin-top: 10%;
+}
+
+/* botton-section */
+
+.box-button{
+    padding: 7% 7% 0 ;
+}
+
+
+.proceed-button{
+    background-color: hsl(245, 75%, 52%);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 3%;
+    border-radius: 10px;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.proceed-button:hover{
+    background-color:hsla(245, 75%, 52%, 0.637);
+    font-size: 16px;
+    font-weight: 900;
+}
+
+
+.order-button{
+   
+    color: hsl(224, 23%, 55%);
+    margin-top: 3%;
+    padding: 3%;
+    border-radius: 10px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+
+    
+}
+
+.order-button:hover{
+    font-size: 16px;
+    font-weight: 900;
+
+}
